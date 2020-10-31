@@ -1,26 +1,151 @@
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+ @import url("https://use.typekit.net/kom8vzw.css");
+  @import url("https://use.typekit.net/kom8vzw.css");
+   @import url("https://use.typekit.net/kom8vzw.css");
+    @import url("https://use.typekit.net/kom8vzw.css");
+     @import url("https://use.typekit.net/kom8vzw.css");
+      @import url("https://use.typekit.net/kom8vzw.css");
+      @import url("https://use.typekit.net/kom8vzw.css");
+      @import url("https://use.typekit.net/kom8vzw.css");
+      @import url("https://use.typekit.net/kom8vzw.css");
+   @font-face {
+     font-family:"HelveticaNeue";
+     src :url('/typo/HelveticaNeue.dfont');
+   }
 
-h1{
-  font-family: 'BD Colonius', Regular;
-  }
-h2{
-  font-family: 'Cochin', Regular;
-  }
-h3{
-  font-family: 'Courier New', Regular;
-  }
-h4{
-  font-family: 'SangBleu Kingdom Trial', Regular;
-  }
-h5{
-  font-family: 'Agentur Regular', Regular;
-  }
-h6{
-  font-family: 'Adobe Jenson Regular Small Caps', Regular;
-  }
-h7{
-  font-family: 'Bruna', Regular;
-  }
-h8{
-  font-family: 'DIN Condensed Bold', Bold;
+
+html {font-size: 100%;}
+
+nav{
+  font-family:"HelveticaNeue";
+  font-size: 8px;
+  font-weight: normal;
+}
+
+.titre{
+font-size: 5em;
+font-family: cormorant-garamond, serif;
+text-align: right;
+color: #000;
+margin-top: 1em;
+}
+
+.nom-auteur{
+  font-family: liebegerda, sans-serif;
+  font-size: 2em;
+  font-weight: 400;
+  font-style: italic;
+text-align: right;
+}
+
+.edition{
+  text-align: center;
+}
+
+.propos{
+  text-align: center;
+}
+.block1{
+  font-family: cormorant-garamond, serif;
+  text-align: center;
+}
+
+.block2{
+  font-family: eb-garamond, serif;
+  color:rgb(142, 142, 142);
+  font-weight: 700;
+  font-style: normal;
+text-align: center;
+}
+
+.block3{
+  font-family:Courier New;
+  text-align: center;
+}
+
+.block4{
+  font-family: bd-colonius, sans-serif;
+  text-align: center;
+}
+
+.block5{
+  font-family: adobe-jenson-pro-caption, serif;
+font-weight: 300;
+font-style: normal;
+color:rgb(142, 142, 142);
+  text-align: center;
+}
+
+
+.block6{
+  font-family: hydrophilia-iced, sans-serif;
+font-weight: 400;
+font-style: normal;
+  text-align: center;
+}
+
+.block7{
+  font-family:"HelveticaNeue";
+  color:rgb(102, 102, 102);
+
+text-align: center;
+}
+
+.block8{
+  font-family: apotek-comp, sans-serif;
+font-weight: 800;
+font-style: normal;
+   text-align: center;
+}
+
+a {font-size: 50px;}
+
+#section1{
+  text-align: center;
+font-family: cormorant-garamond, serif;
+}
+
+#section2{
+  text-align: center;
+  font-family: eb-garamond, serif;
+  color:rgb(142, 142, 142);
+  font-weight: 700;
+  font-style: normal;
+}
+
+#section3{
+  text-align: center;
+font-family:Courier New;
+}
+
+#section4{
+  text-align: center;
+  font-family: bd-colonius, sans-serif;
+}
+
+#section5{
+  text-align: center;
+  font-family: adobe-jenson-pro-caption, serif;
+font-weight: 300;
+color:rgb(142, 142, 142);
+font-style: normal;
+}
+
+#section6{
+  text-align: center;
+  font-family: hydrophilia-iced, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#section7{
+  text-align: center;
+font-family:"HelveticaNeue";
+color:rgb(102, 102, 102);
+}
+
+#section8{
+  text-align: center;
+  font-family: apotek-comp, sans-serif;
+  font-weight: 800;
+  font-style: normal;
 }
